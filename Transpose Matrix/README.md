@@ -10,7 +10,7 @@ You can assume the input matrix always has at least 1 value; however its width a
 
 ```python
 matrix = [
-[1, 2]
+  [1, 2]
 ]
 ```
 
@@ -19,8 +19,8 @@ matrix = [
 
 ```python
 [
-[1],
-[2]
+  [1],
+  [2]
 ]
 ```
 
