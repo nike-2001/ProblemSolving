@@ -14,7 +14,7 @@ matrix = [
 ]
 ```
 
-```
+
 ## ✅ Sample Output
 
 ```python
