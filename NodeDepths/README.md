@@ -16,17 +16,21 @@ Child nodes can either be `BinaryTree` nodes themselves or `None` / `null`.
 ---
 
 ### 🧪 Sample Input
-tree = 1
-/
-2 3
-/ \ /
-4 5 6 7
-/
-8 9
 
----
+```python
+tree =     1
+         /   \
+        2     3
+      /  \   / \
+     4    5 6   7
+    / \
+   8   9
+        
+```
 
 ### ✅ Sample Output
+
+```python
 
 16
 
@@ -34,10 +38,8 @@ The depth of the node with value 2 is 1.
 The depth of the node with value 3 is 1.
 The depth of the node with value 4 is 2.
 The depth of the node with value 5 is 2.
-The depth of the node with value 6 is 2.
-The depth of the node with value 7 is 2.
-The depth of the node with value 8 is 3.
+....
 The depth of the node with value 9 is 3.
 
-Sum of all depths = 1 + 1 + 2 + 2 + 2 + 2 + 3 + 3 = 16
-
+Sum of all depths = 16
+```
