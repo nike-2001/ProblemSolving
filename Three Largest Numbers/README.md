@@ -15,7 +15,9 @@ For example, for an input array of `[10, 5, 9, 10, 12]`, the output should be `[
 array = [141, 1, 17, -7, -17, -27, 18, 541, 8, 7, 7]
 ```
 
-##📤 Sample Output
+## 📤 Sample Input
+
 ```python
 [18, 141, 541]
 
+```
