@@ -11,7 +11,7 @@ A palindrome is defined as a string that's written the same forward and backward
 ```
 string = "abcdcba"
 ```
-## Sample OUtput
+## Sample Output
 
 ```
 true // it's written the same forward and backward
